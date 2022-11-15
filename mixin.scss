@@ -11,3 +11,7 @@
   border: none;
   outline: none;
 }
+@mixin df{
+  display: flex;
+  align-items: center;
+}
