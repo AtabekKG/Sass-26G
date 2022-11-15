@@ -150,6 +150,50 @@ button {
   margin-top: 40px;
 }
 
+#content .content {
+  display: flex;
+}
+#content .content--text h1 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #263238;
+}
+#content .content--text p {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 149.19%;
+  color: #263238;
+  margin: 10px 0;
+}
+#content .content--phone {
+  margin: 0 30px;
+}
+#content .content--phone h2 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #263238;
+  margin-bottom: 33px;
+}
+#content .content--phone a {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 149.19%;
+  color: #263238;
+}
+
+#footer {
+  background: #EE4248;
+  padding: 20px 0;
+}
+#footer .footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#footer .footer h1 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
 #product .product--our {
   padding: 40px 0;
 }
