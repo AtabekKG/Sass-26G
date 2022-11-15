@@ -1,16 +1,17 @@
 
-// Alignment
 @mixin alignment {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-// border and outline none
 @mixin b-and-o__none {
   border: none;
   outline: none;
 }
+@mixin df{
+  display: flex;
+  align-items: center;
 @mixin df {
   display: flex;
   align-items: center;
